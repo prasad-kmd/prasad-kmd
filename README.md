@@ -3,6 +3,7 @@
 <!--- [![GitHub Streak](https://streak-stats.demolab.com?user=prasad-kmd&theme=github-dark-blue&border_radius=10&date_format=%5BY%20%5DM%20j&background=45%2C000000A4%2C44E5EB88&border=5B808B&fire=EB5454)](https://git.io/streak-stats) --->
 <p align="center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=prasad-kmd&theme=github-dark-blue&border_radius=10&date_format=%5BY%20%5DM%20j&background=45%2C000000A4%2C44E5EB88&border=5B808B&fire=EB5454" alt="GitHub Streak" /></a></p>
 
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=prasad-kmd&theme=onestar&no-bg=true&no-frame=true&column=4" alt="01"/></p>
 <!---
 - 👋 Hi, I’m @prasad-kmd
 - 👀 I’m interested in Learning.
