@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Prasad Madhuranga!
 
 ### 🚀 Developer | 💡 Learner | 🌟 Tech Enthusiast
-
+| [![Prasadm Blogfolio Portfolio](./prasadm.vercel.app_portfolio.webp)](https://prasadm.vercel.app/cv/PrasadM_CV_2025.pdf) |
+|---|
+| [![PrasadM Blogfolio Home](./prasadm.vercel.app-home.webp)](https://prasadm.vercel.app/)|
 ---
 
 <p align="center">
